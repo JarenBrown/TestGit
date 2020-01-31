@@ -1,3 +1,5 @@
 This is a sample.
 I have edited it in GitHub.
 Conflict Merge!
+Merge conflict?
+
